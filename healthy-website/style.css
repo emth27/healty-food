@@ -1,0 +1,70 @@
+body {
+    font-family: 'Nanum Myeongjo', serif;
+    background-color: #CAD2C5;
+    color: #2F3E46;
+}
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    height: 150px;
+}
+h1, h2 {
+    font-size: 30px;
+    font-weight: bolder;
+    color: #354F52;
+}
+span {
+    border-bottom: #52796F solid 1px;
+}
+#cook-time, .time {
+    color: #52796F;
+}
+.ingredients li {
+    list-style: square; 
+    color:#52796F; 
+}
+a {
+    color:#52796F; 
+}
+a:hover {
+    color:#2F3E46;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* https://fonts.google.com/specimen/Nanum+Myeongjo */
